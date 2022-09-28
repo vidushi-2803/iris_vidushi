@@ -1,1 +1,2 @@
-web: sh setup.sh && streamlit run iris_species_classification.py
+web: sh setup.sh && streamlit run iris_species_clf.py
+protobuf<=3.20.1
